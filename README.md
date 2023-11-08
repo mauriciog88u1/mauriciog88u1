@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @mauriciog88u1
-- 👀 I’m interested in personal projects
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me mauricio.gon234@gmail.com
+# Hi, I'm Mauricio Gonzalez! 👋
 
-<!---
-mauriciog88u1/mauriciog88u1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+As a software engineer with a background in networking and a strong passion for personal projects, I excel in programming languages like C++, Python, and Java. My project portfolio includes web-based map tools, full-stack chess applications, and my ongoing project is working on my portfolio which will be hosted at mauric10.com
+## Summary
+
+- 💼 Network Engineer Intern at Cisco Meraki.
+- 📫 You can reach me at mauricio.gon234@gmail.com.
+- 📊 Project management experience at Groundwork Denver.
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/mauric10/).
